@@ -7,10 +7,6 @@
   </a>
 </p>
 
----
-
-### 🛠 Tech Stack:
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -43,26 +39,13 @@
 - Solid understanding of **SCSS/SASS**, ensuring maintainable and reusable styling.
 - Expertise in **Git** for version control, and implementing **CI/CD** pipelines to streamline deployments.
 - Adept at **unit testing** with **Jest**, following **Test-Driven Development** (TDD) practices.
-- Experience with **Material UI (MUI)** for responsive design and UI components.
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitOS-1&show_icons=true&theme=radical" alt="Nikita's GitHub stats" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitOS-1&theme=radical" alt="GitHub Streak" width="40%" />
-</p>
-      
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" width="75%" />
 </p>
 
 ---
 
-### 🌍 Let's connect:
-
 <p align="center">
-  <a href="https://github.com/NikitOS-1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:crusssader@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
