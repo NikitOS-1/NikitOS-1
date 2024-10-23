@@ -29,9 +29,6 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 </p>
 
----
-
-### 🧠 Expertise:
 
 - **2 years** of hands-on experience building dynamic and responsive web applications.
 - Specializing in **React** and **TypeScript** to create scalable, maintainable front-end architectures.
