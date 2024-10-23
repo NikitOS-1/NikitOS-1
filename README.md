@@ -48,9 +48,13 @@
 - Experience with **Material UI (MUI)** for responsive design and UI components.
 
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitOS-1&show_icons=true&theme=radical" alt="Nikita's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitOS-1&theme=radical" alt="GitHub Streak" float="right"/>
+  </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
