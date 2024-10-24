@@ -35,7 +35,6 @@
 
 ### 🧠 About me:
 
-- **2 years** of hands-on experience building dynamic and responsive web applications.
 - Specializing in **React** and **TypeScript** to create scalable, maintainable front-end architectures.
 - Proficient in state management with **Redux** and asynchronous flows using **Redux-Saga**, **Redux-Thunk**, and **Redux Toolkit**.
 - Solid understanding of **SCSS/SASS**, ensuring maintainable and reusable styling.
