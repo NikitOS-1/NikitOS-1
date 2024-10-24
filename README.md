@@ -29,12 +29,15 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
 </p>
 
+---
+
+### 🧠 About me:
 
 - **2 years** of hands-on experience building dynamic and responsive web applications.
 - Specializing in **React** and **TypeScript** to create scalable, maintainable front-end architectures.
 - Proficient in state management with **Redux** and asynchronous flows using **Redux-Saga**, **Redux-Thunk**, and **Redux Toolkit**.
 - Solid understanding of **SCSS/SASS**, ensuring maintainable and reusable styling.
-- Expertise in **Git** for version control, and implementing **CI/CD** pipelines to streamline deployments.
+- Expertise in **Git** for version control, **CI/CD** pipelines to streamline deployments.
 - Adept at **unit testing** with **Jest**, following **Test-Driven Development** (TDD) practices.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" width="75%" />
