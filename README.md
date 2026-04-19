@@ -6,6 +6,10 @@
 <h2 align="center">Frontend Engineer • AI • Business Logic</h2>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Building+scalable+web+apps;React+%2F+Next.js+%2F+TypeScript;AI+tools+%26+automation;From+UI+to+business+logic" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-111?style=for-the-badge&logo=linkedin"/>
   </a>
