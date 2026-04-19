@@ -51,14 +51,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
 ## 📬 Contact
 
 <p align="center">
