@@ -1,56 +1,77 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/NikitOS-1" target="_blank">Nik</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+  Hey, I'm Nik 👋
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Engineer;Specialized+in+React,+TypeScript,+Redux;Building+High-Performance+Web+Apps" alt="Typing SVG" />
-  </a>
+  Frontend Engineer • AI Enthusiast • Business-Oriented Developer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white" alt="Redux Saga" />
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Redux%20Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Thunk" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/CI%2FCD-02569B?style=for-the-badge&logo=azure-pipelines&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/TDD-EF4822?style=for-the-badge" alt="TDD" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Building+scalable+web+apps;React+%2F+Next.js+%2F+TypeScript;AI+tools+%26+automation;From+UI+to+business+logic" />
 </p>
 
 ---
 
-### 🧠 About me:
+## 🚀 About Me
 
-- Specializing in **React** and **TypeScript** to create scalable, maintainable front-end architectures.
-- Proficient in state management with **Redux** and asynchronous flows using **Redux-Saga**, **Redux-Thunk**, and **Redux Toolkit**.
-- Solid understanding of **SCSS/SASS**, ensuring maintainable and reusable styling.
-- Expertise in **Git** for version control, **CI/CD** pipelines to streamline deployments.
-- Adept at **unit testing** with **Jest**, following **Test-Driven Development** (TDD) practices.
+- 💻 Frontend developer focused on **React / Next.js / TypeScript**
+- 🧠 Strong in **architecture & business logic**, not just UI
+- ⚡ Building **high-performance apps** with clean scalable structure
+- 🤖 Interested in **AI integrations & automation tools**
+- 🔧 Backend experience with **Node.js / NestJS / API design**
+
+---
+
+## 🧩 Tech Stack
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" width="75%" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,nodejs,nestjs,docker,vite,webpack,git" />
+
+</p>
+
+---
+
+## ⚡ What I Actually Do
+
+- Build **production-ready frontend architectures**
+- Design **clean state management (Redux / RTK)**
+- Integrate **REST APIs & backend systems**
+- Optimize performance & UX
+- Automate workflows using **AI tools**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikitOS-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitOS-1&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:crusssader@icloud.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="mailto:crusssader@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank">
-  </a>
+  <i>“Code is not just UI — it's business value.”</i>
 </p>
