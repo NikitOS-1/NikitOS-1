@@ -43,19 +43,6 @@ they **solve business problems, automate workflows, and scale**.
 
 ---
 
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:crusssader@icloud.com">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268/">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Building interfaces is easy. Building systems that make money — that's the real skill.</i>
 </p>
