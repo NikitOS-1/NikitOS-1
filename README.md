@@ -1,44 +1,36 @@
-<h1 align="center">
-  Hey, I'm Nik 👋
-</h1>
-
+<!-- ===== HEADER ===== -->
 <p align="center">
-  Frontend Engineer • AI Enthusiast • Business-Oriented Developer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Nikita%20Puzyrenko&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h2 align="center">Frontend Engineer • AI • Business Logic</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&center=true&vCenter=true&lines=Building+scalable+web+apps;React+%2F+Next.js+%2F+TypeScript;AI+tools+%26+automation;From+UI+to+business+logic" />
+  <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ Positioning
 
-- 💻 Frontend developer focused on **React / Next.js / TypeScript**
-- 🧠 Strong in **architecture & business logic**, not just UI
-- ⚡ Building **high-performance apps** with clean scalable structure
-- 🤖 Interested in **AI integrations & automation tools**
-- 🔧 Backend experience with **Node.js / NestJS / API design**
+I build **production-ready web applications** that don’t just look good —  
+they **solve business problems, automate workflows, and scale**.
+
+- 🚀 React / Next.js / TypeScript  
+- 🧠 Strong in **architecture & state management (Redux / RTK)**  
+- 🤖 AI integrations & automation  
+- 🔌 Backend-aware (**Node.js / NestJS / APIs**)  
+- 💼 Focused on **real business impact**
 
 ---
 
 ## 🧩 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,nodejs,nestjs,docker,vite,webpack,git" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,nodejs,nestjs,docker,vite,git" />
 </p>
-
----
-
-## ⚡ What I Actually Do
-
-- Build **production-ready frontend architectures**
-- Design **clean state management (Redux / RTK)**
-- Integrate **REST APIs & backend systems**
-- Optimize performance & UX
-- Automate workflows using **AI tools**
 
 ---
 
@@ -51,13 +43,21 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
 ## 📬 Contact
 
 <p align="center">
   <a href="mailto:crusssader@icloud.com">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268">
+  <a href="https://www.linkedin.com/in/nikita-puzyrenko-979259268/">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
@@ -65,5 +65,9 @@
 ---
 
 <p align="center">
-  <i>“Code is not just UI — it's business value.”</i>
+  <i>Building interfaces is easy. Building systems that make money — that's the real skill.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f172a&height=120&section=footer"/>
 </p>
