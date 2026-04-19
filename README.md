@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Nikita%20Puzyrenko&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=200&section=header&text=Mykyta%20Puzyrenko&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">Frontend Engineer • AI • Business Logic</h2>
@@ -39,14 +39,6 @@ they **solve business problems, automate workflows, and scale**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikitOS-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitOS-1&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikitOS-1&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
