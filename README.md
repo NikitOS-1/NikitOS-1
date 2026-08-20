@@ -38,15 +38,6 @@ they **solve business problems, automate workflows, and scale**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitOS-1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitOS-1&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 <p align="center">
   <i>Building interfaces is easy. Building systems that make money — that's the real skill.</i>
 </p>
